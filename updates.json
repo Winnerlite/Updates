@@ -1,0 +1,69 @@
+{
+    "lastUpdated": "2024-01-15",
+    "updates": [
+        {
+            "id": 1,
+            "title": "New TV Shows Section",
+            "description": "Added dedicated TV shows section with episode browsing and season selection",
+            "date": "2024-01-15",
+            "type": "feature",
+            "isNew": true
+        },
+        {
+            "id": 2,
+            "title": "AI Movie Summaries",
+            "description": "Get instant AI-powered summaries for movies and shows with detailed analysis",
+            "date": "2024-01-10",
+            "type": "feature", 
+            "isNew": true
+        },
+        {
+            "id": 3,
+            "title": "Enhanced Search",
+            "description": "Improved search accuracy and live search results with better filtering",
+            "date": "2024-01-05",
+            "type": "improvement",
+            "isNew": true
+        },
+        {
+            "id": 4,
+            "title": "Dark Mode Optimizations",
+            "description": "Better contrast and readability in dark mode across all sections",
+            "date": "2024-01-01",
+            "type": "improvement",
+            "isNew": false
+        },
+        {
+            "id": 5,
+            "title": "Performance Boost",
+            "description": "Faster loading times and smoother scrolling throughout the app",
+            "date": "2023-12-28",
+            "type": "performance",
+            "isNew": false
+        },
+        {
+            "id": 6,
+            "title": "Offline Viewing",
+            "description": "Download your favorite trailers and movies for offline viewing",
+            "date": "2023-12-25",
+            "type": "feature",
+            "isNew": false
+        },
+        {
+            "id": 7,
+            "title": "Personalized Recommendations",
+            "description": "Better movie recommendations based on your watch history and preferences",
+            "date": "2023-12-20",
+            "type": "feature",
+            "isNew": false
+        },
+        {
+            "id": 8,
+            "title": "Bug Fixes",
+            "description": "Fixed various UI issues and playback problems reported by users",
+            "date": "2023-12-15",
+            "type": "bugfix",
+            "isNew": false
+        }
+    ]
+}
